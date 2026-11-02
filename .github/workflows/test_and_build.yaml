@@ -41,4 +41,4 @@ jobs:
       uses: docker/build-push-action@v7
       with:
         push: true
-        tags: ghrc/cedricbuendia9/demo_CICD:latest
+        tags: ghrc.io/cedricbuendia9/demo_CICD:latest
